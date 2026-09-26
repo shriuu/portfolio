@@ -1,0 +1,1 @@
+.work .project{grid-template-columns:35px 1fr!important}.work .project-main{grid-column:2!important}@media(max-width:700px){.work .project{grid-template-columns:25px 1fr!important}}
